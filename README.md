@@ -1,6 +1,8 @@
 # Smartboard
 Make a fantastic smartboard for your kitchen work, reminding you of the food that is about to expire.
 
+<p align="center"><img src="https://github.com/mariacamporese/Smartboard/blob/master/Smartboard.jpg"/></p> 
+
 ## Material used:
 - 1 x Arduino Nano 
 - 1 x small whiteboard
