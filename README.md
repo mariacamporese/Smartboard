@@ -13,6 +13,7 @@ Make a fantastic smartboard for your kitchen work, reminding you of the food tha
 - 14 x keyboard switches
 - 3 x pushbuttons
 - 1 x microUSB charger
+- 1 x switch
 - 1 x 18650 battery with 2800mAh
 - 1 x step-up module
 then some resistors, solder and wires to connect all the components
